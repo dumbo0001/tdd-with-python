@@ -1,4 +1,5 @@
 virtenv
 *.sqlite3
 *.pyc
-static
+bootstrap
+base.css
